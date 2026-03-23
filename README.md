@@ -1,2 +1,2 @@
-# notater
-Notater for fag | Bachelor i Anvendt Datateknologi på Oslomet
+# Notater
+### Notater for fag | Bachelor i Anvendt Datateknologi på Oslomet
